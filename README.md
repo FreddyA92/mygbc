@@ -3,7 +3,7 @@
 ## Links
 - [D2L](https://learn.georgebrown.ca)
 - [AtKlass](https://app.atklass.com)
-- [GBLearn](https://my.gblearn.com/student))
+- [GBLearn](https://my.gblearn.com/student)
 
 ## Course Notes
  [Midterm Review](comp1238.md)
