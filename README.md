@@ -10,7 +10,7 @@
 
 ## Class Schedule
 * Monday
-   * 1:00 - 5555
+   * 12:00 - [COMP1151](https://learn.georgebrown.ca/d2l/home/515478)
 * Tuesday
 * Wednesday
 * Thursday
