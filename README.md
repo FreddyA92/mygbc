@@ -10,7 +10,7 @@
 
 ## Class Schedule
 * Monday
-** 1:00
+   * 1:00 - 5555
 * Tuesday
 * Wednesday
 * Thursday
