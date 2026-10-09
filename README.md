@@ -8,3 +8,12 @@
 ## Midterm Study Material
 [Course Notes](comp1238.md)
 
+## Class Schedule
+* Monday
+** 1:00
+* Tuesday
+* Wednesday
+* Thursday
+* Friday
+  
+
